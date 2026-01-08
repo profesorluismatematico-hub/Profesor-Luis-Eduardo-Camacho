@@ -1,0 +1,5 @@
+{
+  "name": "Control de Alumnos",
+  "description": "Una plataforma integral para la gestión de alumnos que incluye seguimiento de asistencia, calificaciones, datos personales y análisis de rendimiento impulsado por IA.",
+  "requestFramePermissions": []
+}
